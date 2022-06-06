@@ -7,7 +7,9 @@ Update 4 June 2022:
 
 
 Results as of 5/25 update:
+
 -Average error in predicted draft position: 21.3 spots
+
 -Average error among top-100 prospects: 9.2 spots
 
 
