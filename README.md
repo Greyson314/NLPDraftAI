@@ -5,9 +5,11 @@ Predict the draft position of prospects based on Natural Language Processing per
 Update 4 June 2022: 
 -Waiting to re-upload this repository to GitHub until I can expand the scope of the project beyond just the 2022 NFL draft. 
 
+
 Results as of 5/25 update:
 -Average error in predicted draft position: 21.3 spots
 -Average error among top-100 prospects: 9.2 spots
+
 
 List of AI's top-10 favorite prospect strengths/words of 5/25 update:
 -Long
@@ -20,6 +22,7 @@ List of AI's top-10 favorite prospect strengths/words of 5/25 update:
 -Heisman
 -Rare
 -Burst
+
 
 TODO as of June 6:
 -Separate inputs to learn differently from strengths/weaknesses/summary instead of just strengths
