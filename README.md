@@ -12,20 +12,35 @@ Results as of 5/25 update:
 
 
 List of AI's top-10 favorite prospect strengths/words of 5/25 update:
--Long
+
+-Long 
+
 -Wingspan
+
 -Awareness
+
 -Elite
+
 -Consistently
+
 -Outstanding
+
 -Toolsy
+
 -Heisman
+
 -Rare
+
 -Burst
 
 
 TODO as of June 6:
+
 -Separate inputs to learn differently from strengths/weaknesses/summary instead of just strengths
+
 -Add data for all previous "Beasts" to massively increase dataset; 2022 is just a testing ground
+
 -Separate by position
+
 -Add different categories for testing/listed traits, e.g. "Arm Length = 8.5" instead of trying to use NLP to derive Arm Length
+
